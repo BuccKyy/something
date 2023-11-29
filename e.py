@@ -1,4 +1,4 @@
-''''menu = {
+menu = {
     "t": 1.26,
     "z": 3.29,
     "r": 4.14,
@@ -20,14 +20,14 @@ while True:
         print(f"{order} for ${menu[order]: 2f}")
     else:
         print("don't have in menu")
-print(f"Total ${total:.2f}")'''
+print(f"Total ${total:.2f}")
 
-'''my_tuple = ['a','a', 'b', 'c', 'd', 'e', 'h']
+my_tuple = ['a','a', 'b', 'c', 'd', 'e', 'h']
 print(my_tuple.count('a'))
 x = my_tuple.pop(1)
 y = my_tuple.remove('b')
 print(x)
-print(my_tuple)'''
+print(my_tuple)
 
 '''my_set ={1, 2, 3, 1, 2}
 print(my_set)'''
